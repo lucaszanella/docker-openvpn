@@ -1,3 +1,12 @@
+# Modifications to work on raspberry pi
+
+
+You have to build it locally
+
+`sudo docker build -t openvpn .`
+
+Then run the commands below with openvpn in the place of `kylemanna/openvpn`
+
 # OpenVPN for Docker
 
 [![Build Status](https://travis-ci.org/kylemanna/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
