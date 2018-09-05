@@ -3,7 +3,10 @@
 
 You have to build it locally
 
-`sudo docker build -t openvpn .`
+```
+
+sudo docker build -t openvpn .
+```
 
 Then run the commands below with openvpn in the place of `kylemanna/openvpn`
 
